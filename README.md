@@ -30,6 +30,7 @@
 * [Web Operations weekly](http://webopsweekly.com)
 * [Web Design Weekly](http://webopsweekly.com)
 * [ng-newsletter](https://ngnewsletter.curated.co)
+* [Front End Newsletter](http://frontendnewsletter.com/)
 * ...
 
 > ![크리에이티브 커먼즈 라이센스](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)(http://creativecommons.org/licenses/by-sa/4.0/)
