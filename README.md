@@ -31,6 +31,8 @@
 * [Web Design Weekly](http://webopsweekly.com)
 * [ng-newsletter](https://ngnewsletter.curated.co)
 * [Front End Newsletter](http://frontendnewsletter.com/)
+* [Elixir Weekly](https://elixirweekly.net)
+* [Elixir Radar](http://plataformatec.com.br/elixir-radar/weekly-newsletter)
 * ...
 
 > ![크리에이티브 커먼즈 라이센스](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)(http://creativecommons.org/licenses/by-sa/4.0/)
